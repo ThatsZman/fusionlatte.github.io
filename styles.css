@@ -1,8 +1,13 @@
-head {
-    
+.top {
+    background-color: #4FC8A3;
+    text-align: left;
 }
 
 body {
     text-align: center;
     font-family: 'Nunito', sans-serif;
+}
+
+.slideshow {
+    text-align: right;
 }
