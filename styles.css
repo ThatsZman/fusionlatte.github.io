@@ -15,6 +15,7 @@ body {
 
 .slideshow {
     text-align: center;
+    background-image: url("timealert.png");
 }
 
 .copyright {
@@ -22,4 +23,5 @@ body {
     color: white;
     padding: 20px;
     font-family: Arial;
+    
 }
