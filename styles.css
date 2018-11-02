@@ -1,13 +1,25 @@
 .top {
-    background-color: #4FC8A3;
-    text-align: left;
+    background-color: #f53333;
+    padding: 20px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-family: Arial;
 }
 
 body {
     text-align: center;
     font-family: 'Nunito', sans-serif;
+    margin: 0;
 }
 
 .slideshow {
-    text-align: right;
+    text-align: center;
+}
+
+.copyright {
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding: 20px;
+    font-family: Arial;
 }
