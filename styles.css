@@ -16,12 +16,24 @@ body {
 .slideshow {
     text-align: center;
     background-image: url("timealert.png");
+    padding: 180px;
 }
 
+.SlideText {
+    padding: 50px;
+    background-color: #f53333;
+    color: #ffffff;
+    font-family: Arial;
+    width: 300px;
+    margin: auto;
+}
 .copyright {
     background-color: rgb(48, 48, 48);
     color: white;
     padding: 20px;
     font-family: Arial;
     
+}
+.ButtonA {
+    font-size: 15px;
 }
